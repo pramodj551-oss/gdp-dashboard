@@ -149,3 +149,6 @@ for i, country in enumerate(selected_countries):
             delta=growth,
             delta_color=delta_color
         )
+        
+st.divider()
+st.caption("Built by Pramod Prakash Jadhav · Applied AI & ML Essentials · IIT Patna (Vishlesan i-Hub) · [GitHub](https://github.com/pramodj551-oss) · [LinkedIn](https://linkedin.com/in/pramod-jadhav-42ba2281)")
