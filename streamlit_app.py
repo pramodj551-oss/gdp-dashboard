@@ -151,4 +151,4 @@ for i, country in enumerate(selected_countries):
         )
         
 st.divider()
-st.caption("Built by Pramod Prakash Jadhav · Applied AI & ML Essentials · IIT Patna (Vishlesan i-Hub) · [GitHub](https://github.com/pramodj551-oss) · [LinkedIn](https://www.linkedin.com/in/pramod-jadhav-42ba2281)")
+st.caption("Built by Pramod Prakash Jadhav · Applied AI & ML Essentials · IIT Patna (Vishlesan i-Hub) · [GitHub](https://github.com/pramodj551-oss) · [LinkedIn](https://www.linkedin.com/in/pramod-prakash-jadhav-42ba2281)")
